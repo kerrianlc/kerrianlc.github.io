@@ -11,7 +11,7 @@
       "degree": "MEng Mathematics & Data Science",
       "institution": "CentraleSupélec School",
       "location": "Paris, France",
-      "dates": "Sep. 2021 – Apr. 2025",
+      "dates": "Sep. 2021 - Apr. 2025",
       "courses": [
         "Advanced statistics",
         "Probability and stochastic models",
@@ -24,7 +24,7 @@
       "degree": "MSc Mathematics, Vision, Learning (MVA)",
       "institution": "ENS Paris-Saclay",
       "location": "Paris, France",
-      "dates": "Sep. 2024 – Apr. 2025",
+      "dates": "Sep. 2024 - Apr. 2025",
       "courses": [
         "Large random matrices",
         "Extreme Value Theory",
@@ -37,7 +37,7 @@
       "degree": "Preparatory classes in Math, Physics & Computer science (MP*)",
       "institution": "Lycée La Pérouse-Kerichen",
       "location": "Brest, France",
-      "dates": "2019 – 2021"
+      "dates": "2019 - 2021"
     }
   ],
   "experience": [
@@ -45,7 +45,7 @@
       "title": "Internship - Data Science",
       "company": "Crédit Agricole Corporate & Investment Bank",
       "location": "Paris, France",
-      "dates": "Apr. 2025 – Oct. 2025",
+      "dates": "Apr. 2025 - Oct. 2025",
       "tasks": [
         "Prototyped methods for fine-tuning compact, reasoning-capable language models on domain-specific tasks using parameter-efficient techniques.",
         "Designed and implemented distributed deep-reinforcement-learning pipelines (PPO, GRPO) in PyTorch for transformer-based decision agents, with containerized workflows and experiment tracking to ensure reproducibility."
@@ -55,7 +55,7 @@
       "title": "Internship - Quant Researcher (Macro)",
       "company": "Qube Research & Technologies",
       "location": "London, UK",
-      "dates": "Jan. 2024 – Jul. 2024",
+      "dates": "Jan. 2024 - Jul. 2024",
       "tasks": [
         "Built unsupervised learning pipelines (DBSCAN, spectral clustering) to group assets from multi-factor embeddings.",
         "Implemented end-to-end forecasting systems (LSTM, 1D-CNN, kernel ridge regression) with automated backtesting benchmarks and GA-tuned feature selectors."
@@ -65,7 +65,7 @@
       "title": "Internship - Quantitative Developer",
       "company": "Qube Research & Technologies",
       "location": "Paris, France",
-      "dates": "Jul. 2023 – Dec. 2023",
+      "dates": "Jul. 2023 - Dec. 2023",
       "tasks": [
         "Implemented supervised regression models (Gaussian Mixture Models, GLMs) for predictive analysis.",
         "Contributed to internal libraries ensuring reproducibility, performance monitoring, and maintainability of research workflows."
