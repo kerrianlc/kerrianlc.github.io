@@ -8,6 +8,12 @@
   },
   "education": [
     {
+      "degree": "Preparatory classes in Math, Physics & Computer science (MP*)",
+      "institution": "Lycée La Pérouse-Kerichen",
+      "location": "Brest, France",
+      "dates": "2019 - 2021"
+    },
+    {
       "degree": "MEng Mathematics & Data Science",
       "institution": "CentraleSupélec School",
       "location": "Paris, France",
@@ -32,12 +38,6 @@
         "Deep learning",
         "Large Language Models"
       ]
-    },
-    {
-      "degree": "Preparatory classes in Math, Physics & Computer science (MP*)",
-      "institution": "Lycée La Pérouse-Kerichen",
-      "location": "Brest, France",
-      "dates": "2019 - 2021"
     }
   ],
   "experience": [
